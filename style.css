@@ -185,7 +185,7 @@ img{
   height: 250px;
   border-radius: 15px;
 }
-.blog-img img:hover{
+.blog:hover{
   transform: scale(1.05);
   transition-duration: 0.5s;
 }
